@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amigma00" alt="amigma00" /></a> </p>
 
-- 🔭 I’m currently working on [Oui](https://ouitoo.app/)
+- 🔭 I’m currently working on [Infivent](https://www.infivent.io/)
 
 - 🌱 I’m currently learning **Swift, Javascript**
 
